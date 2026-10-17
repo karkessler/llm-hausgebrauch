@@ -37,8 +37,8 @@ Die Jupyter-Notebooks können direkt in Google Colab geöffnet werden:
 - Paketinstallation (im Projektverzeichnis): `pip install -r requirements-notebooks.txt`
 - Empfohlen: eigenes Python-Environment (virtuelle Umgebung oder Conda) mit Jupyter-Kernel `python3`.
 - Nach `%pip install ...` in einem Notebook ggf. den Kernel neu starten, damit neue Pakete sicher importiert werden.
-- `qdrant_demo.ipynb` benoetigt `qdrant-client` und `sentence-transformers`.
-- Falls beim Import von `sentence-transformers` ein Keras-3-Fehler auftritt, zusaetzlich ausfuehren: `%pip install tf-keras` und den Kernel neu starten.
+- `qdrant_demo.ipynb` benötigt `qdrant-client` und `sentence-transformers`.
+- Falls beim Import von `sentence-transformers` ein Keras-3-Fehler auftritt, zusätzlich ausführen: `%pip install tf-keras` und den Kernel neu starten.
 
 ## Lizenz
 

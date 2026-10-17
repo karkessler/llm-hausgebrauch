@@ -30,4 +30,4 @@ Stand: 26.02.2026
 ## Hinweis zur Verifikation
 
 - Die Jupyter-Notebooks wurden gegen das PDF geprueft und sind inhaltlich konsistent.
-- Die oben genannten Abweichungen liegen auf PDF-/Folienseite, nicht in den Notebooks.
+- Die oben genannten Abweichungen liegen auf PDF-/Folie-Seite, nicht in den Notebooks.
