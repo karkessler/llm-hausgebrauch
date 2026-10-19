@@ -15,6 +15,12 @@ Technische Einführung in Large Language Models (LLMs) für Studierende und Prak
 
 📄 **Skript:** [https://tutor.kkessler.de/LLM/llm-hausgebrauch.html](https://tutor.kkessler.de/LLM/llm-hausgebrauch.html)
 
+### Gradient und Niveaulinien
+
+- [Aufgabenblatt: Gradient und Niveaulinien](lectures/gradient-und-niveaulinien.pdf)
+- [Lösungen: Gradient und Niveaulinien](lectures/gradient-und-niveaulinien-loesungen.pdf)
+- [Interaktives Lernmodul zum Gradientenverfahren](https://tutor.kkessler.de/llm/gradientenverfahren/)
+
 ## Notebooks
 
 Die Jupyter-Notebooks können direkt in Google Colab geöffnet werden:
