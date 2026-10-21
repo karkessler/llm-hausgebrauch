@@ -17,8 +17,7 @@ Technische Einführung in Large Language Models (LLMs) für Studierende und Prak
 
 ### Gradient und Niveaulinien
 
-- [Aufgabenblatt: Gradient und Niveaulinien](lectures/gradient-und-niveaulinien.pdf)
-- [Lösungen: Gradient und Niveaulinien](lectures/gradient-und-niveaulinien-loesungen.pdf)
+- [Gradient und Niveaulinien](lectures/gradient-und-niveaulinien.pdf)
 - [Interaktives Lernmodul zum Gradientenverfahren](https://tutor.kkessler.de/llm/gradientenverfahren/)
 
 ## Notebooks
